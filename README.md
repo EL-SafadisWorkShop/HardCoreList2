@@ -1,2 +1,2 @@
-# HardCoreList2
+# HardcoreSimpleListTraining
 Created with CodeSandbox
